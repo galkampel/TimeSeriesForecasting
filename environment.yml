@@ -1,0 +1,17 @@
+name: maven_forecasting
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - gluonts=0.12
+  - scikit-learn
+  - xarray
+  - matplotlib
+  - seaborn
+  - jupyter
+  - u8darts-all
+  - orjson
+  - datasets
+  - optuna
+  - tensorboard
+prefix: /home/studio-lab-user/.conda/envs/maven_forecasting
